@@ -3,6 +3,9 @@ This project explores Uber ride patterns in New York City using Python data-anal
 
 
 The analysis uses several Uber datasets gotten from https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city:
+Steps taken to Import Dataset to the Directory:
+1) Create a folder called Datasets
+2) Download the Uber Datasets using the above link and copy the Datasets listed below into the Datasets Folder
 
 Uber-Jan-Feb-FOIL.csv,
 uber-raw-data-apr14.csv,
