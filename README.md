@@ -2,11 +2,16 @@
 This project explores Uber ride patterns in New York City using Python data-analysis libraries such as Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Folium. The analysis includes data cleaning, time-based feature engineering, visualization, and geospatial heatmaps to understand ride volume, peak activity periods, and spatial distribution.
 
 
-The analysis uses several Uber datasets:
+The analysis uses several Uber datasets gotten from https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city:
 
-uber-raw-data-janjune-15_sample.csv – Sample dataset for Jan–June 2015
-
-FOIL data (Jan–Feb) – Uber-Jan-Feb-FOIL.csv
+Uber-Jan-Feb-FOIL.csv,
+uber-raw-data-apr14.csv,
+uber-raw-data-aug14.csv,
+uber-raw-data-janjune-15_sample.csv,
+uber-raw-data-jul14.csv,
+uber-raw-data-jun14.csv,
+uber-raw-data-may14.csv,
+uber-raw-data-sep14.csv
 
 Additional monthly Uber data files combined into a final dataset
 
